@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dirk-f.github.io/website/sitemap.xml

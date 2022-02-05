@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dirks Space",
+    "description": "",
+    "home_page_url": "https://dirk-f.github.io/website",
+    "feed_url": "https://dirk-f.github.io/website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dirk Fiebiger"
+    },
+    "items": [
+        {
+            "id": "https://dirk-f.github.io/website/hallo-dies-ist-ein-test.html",
+            "url": "https://dirk-f.github.io/website/hallo-dies-ist-ein-test.html",
+            "title": "Hallo, dies ist ein Test",
+            "summary": " 1 2 3 4 a b c d e ",
+            "content_html": "<p> </p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\">1</td>\n<td style=\"width: 20%;\">2</td>\n<td style=\"width: 20%;\">3</td>\n<td style=\"width: 20%;\">4</td>\n</tr>\n<tr>\n<td style=\"width: 20%;\">a</td>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 20%;\">b</td>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 20%;\">c</td>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 20%;\">d</td>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 20%;\">e</td>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\"> </td>\n<td style=\"width: 20%;\"> </td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "Dirk Fiebiger"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-05T13:48:45+01:00",
+            "date_modified": "2022-02-05T13:52:51+01:00"
+        }
+    ]
+}
