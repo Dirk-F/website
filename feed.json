@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://dirk-f.github.io/website/about-me.html",
+            "url": "https://dirk-f.github.io/website/about-me.html",
+            "title": "About Me",
+            "summary": "This is a test about me site.",
+            "content_html": "<p>This is a test about me site.</p>",
+            "author": {
+                "name": "Dirk Fiebiger"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-05T14:24:31+01:00",
+            "date_modified": "2022-02-05T14:24:31+01:00"
+        },
+        {
             "id": "https://dirk-f.github.io/website/hallo-dies-ist-ein-test.html",
             "url": "https://dirk-f.github.io/website/hallo-dies-ist-ein-test.html",
             "title": "Hallo, dies ist ein Test",
